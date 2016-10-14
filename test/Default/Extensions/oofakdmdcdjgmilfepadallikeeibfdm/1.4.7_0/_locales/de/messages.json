@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store",
+      "message": "Verkaufs-CRM für kleine Teams mit großen Ambitionen"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Pipedrive Verkaufs-CRM"
+   }
+}

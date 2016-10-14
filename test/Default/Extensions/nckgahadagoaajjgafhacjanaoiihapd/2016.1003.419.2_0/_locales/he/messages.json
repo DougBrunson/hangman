@@ -1,0 +1,249 @@
+{
+   "chrome_app_chrome_signin_message": {
+      "message": "היכנס ל-Chrome כדי להתחיל."
+   },
+   "chrome_app_connection_error_button": {
+      "message": "נסה שוב"
+   },
+   "chrome_app_connection_error_detail": {
+      "message": "ודא שאתה מחובר לאינטרנט ונסה שוב"
+   },
+   "chrome_app_connection_error_title": {
+      "message": "שגיאת התחברות"
+   },
+   "chrome_app_description": {
+      "message": "הישאר מחובר תמיד עם האפליקציה החדשה של Hangouts על שולחן העבודה."
+   },
+   "chrome_app_exit_detail": {
+      "message": "לא תקבל הודעות או שיחות חדשות במכשיר הזה"
+   },
+   "chrome_app_exit_detail_2": {
+      "message": "תוכל גם לבחור למזער אותו ולהמשיך לקבל הודעות ושיחות."
+   },
+   "chrome_app_exit_minimize": {
+      "message": "מזער"
+   },
+   "chrome_app_exit_no": {
+      "message": "לא"
+   },
+   "chrome_app_exit_quit": {
+      "message": "צא"
+   },
+   "chrome_app_exit_title": {
+      "message": "האם אתה בטוח שברצונך לצאת מ-Hangouts?"
+   },
+   "chrome_app_exit_title_2": {
+      "message": "האם אתה רוצה לצאת מ-Hangouts?"
+   },
+   "chrome_app_learn_more_message": {
+      "message": "למידע נוסף"
+   },
+   "chrome_app_outdated_detail": {
+      "message": "האפליקציה הזו מיושנת. זמינה גרסה חדשה יותר."
+   },
+   "chrome_app_outdated_title": {
+      "message": "עדכן את אפליקציית Hangouts Chrome שלך"
+   },
+   "chrome_app_signin_button": {
+      "message": "היכנס"
+   },
+   "chrome_app_welcome_message": {
+      "message": "תיהנה משיחות פרטיות וקבוצתיות עם טקסט, תמונות, תצלומים, קול, וידאו ועוד."
+   },
+   "chrome_app_window_title": {
+      "message": "Google Hangouts - ‏$1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_ext_cannot_connect": {
+      "message": "לא ניתן להתחבר ל-Google. בדוק את החיבור שלך לאינטרנט."
+   },
+   "chrome_ext_description": {
+      "message": "Hangouts מוסיף חיים לשיחות באמצעות תמונות, אמוג&#39;י ואפילו שיחות וידאו קבוצתיות ללא תשלום."
+   },
+   "chrome_ext_feedback_comments": {
+      "message": "תגובות"
+   },
+   "chrome_ext_feedback_subtitle": {
+      "message": "שלח משוב"
+   },
+   "chrome_ext_group_plus_hangout_details": {
+      "message": "הזמין אותך לשיחת וידאו קבוצתית ב-Hangout"
+   },
+   "chrome_ext_menutext_feedback": {
+      "message": "שלח משוב"
+   },
+   "chrome_ext_menutext_unsigned_user": {
+      "message": "לא מחובר"
+   },
+   "chrome_ext_new_windows_topmost": {
+      "message": "השאר את Hangouts מעל חלונות אחרים"
+   },
+   "chrome_ext_oneonone_plus_hangout_details": {
+      "message": "מתקשר אליך בווידאו באמצעות Hangouts"
+   },
+   "chrome_ext_run_after_browser_close": {
+      "message": "אפשר מצב רקע"
+   },
+   "chrome_ext_run_at_browser_start": {
+      "message": "היכנס ל-Hangouts כש-Chrome מופעל"
+   },
+   "chrome_ext_tip_connected_missed_messages": {
+      "message": "סטטוס: מחובר\nהודעות שלא נקראו"
+   },
+   "chrome_hangouts_short_name": {
+      "message": "Google Hangouts"
+   },
+   "quasar_answer_button_text": {
+      "message": "תשובה"
+   },
+   "quasar_button_apply": {
+      "message": "החל"
+   },
+   "quasar_button_cancel": {
+      "message": "ביטול"
+   },
+   "quasar_button_save": {
+      "message": "אישור"
+   },
+   "quasar_chat_title": {
+      "message": "$1 אומר...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_chat_toast_info": {
+      "message": "לחץ כדי לעבור לדף ..."
+   },
+   "quasar_decline_button_text": {
+      "message": "סרב"
+   },
+   "quasar_feedback_cancel_button": {
+      "message": "ביטול"
+   },
+   "quasar_feedback_platform_label": {
+      "message": "פלטפורמה:"
+   },
+   "quasar_feedback_privacy_legend": {
+      "message": "הצהרת פרטיות"
+   },
+   "quasar_feedback_privacy_text": {
+      "message": "התיאור, פרטי המוצר, מידע נוסף וכתובת האימייל שלך יישלחו ל-Google. עיין בתנאים והגבלות של משוב Google. על ידי שליחת התוכן הזה אתה מעניק ל-Google את הזכות להשתמש בו על מנת לשפר את המוצרים והשירותים שלנו. עיין במדיניות הפרטיות שלנו."
+   },
+   "quasar_feedback_server_uri": {
+      "message": "https://www.google.com/tools/feedback"
+   },
+   "quasar_feedback_submit_button": {
+      "message": "שלח משוב"
+   },
+   "quasar_feedback_system_legend": {
+      "message": "מידע מערכת"
+   },
+   "quasar_feedback_user_agent_label": {
+      "message": "סוכן משתמש"
+   },
+   "quasar_group_chat_title": {
+      "message": "צור צ'אט קבוצתי..."
+   },
+   "quasar_hangout_title": {
+      "message": "$1 נמצא/ת ב-Hangout",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_help": {
+      "message": "עזרה"
+   },
+   "quasar_label_all_notification": {
+      "message": "השבת התראות"
+   },
+   "quasar_label_chat_notification": {
+      "message": "השבת התראות צ 'אט"
+   },
+   "quasar_label_toast_duration_chat": {
+      "message": "משך פסק זמן (בשניות):"
+   },
+   "quasar_label_toast_timeout_chat": {
+      "message": "אפשר להתראות צ'אט לפוג באופן אוטומטי"
+   },
+   "quasar_label_tray_icon": {
+      "message": "הצג את סמל מגש המערכת"
+   },
+   "quasar_legend_notifications": {
+      "message": "התראות"
+   },
+   "quasar_legend_startup_shutdown": {
+      "message": "אפליקציה"
+   },
+   "quasar_menutext_feedback": {
+      "message": "משוב"
+   },
+   "quasar_menutext_quit": {
+      "message": "יציאה"
+   },
+   "quasar_menutext_settings": {
+      "message": "אפשרויות"
+   },
+   "quasar_menutext_signout": {
+      "message": "יציאה מ-Hangouts"
+   },
+   "quasar_menutext_unknown_user": {
+      "message": "לא ידוע"
+   },
+   "quasar_sign_in": {
+      "message": "היכנס"
+   },
+   "quasar_sign_in_to_start_talking": {
+      "message": "היכנס כדי להתחיל לדבר עם חברים"
+   },
+   "quasar_tip_connected": {
+      "message": "סטטוס: מחובר"
+   },
+   "quasar_tip_connecting": {
+      "message": "סטטוס: מתחבר"
+   },
+   "quasar_tip_disconnected": {
+      "message": "סטטוס: מנותק"
+   },
+   "quasar_tip_not_load": {
+      "message": "סטטוס: שגיאה בטעינה"
+   },
+   "quasar_tip_not_login": {
+      "message": "סטטוס: לא מחובר"
+   },
+   "quasar_tip_reconnecting": {
+      "message": "סטטוס: מתחבר מחדש"
+   },
+   "quasar_try_now": {
+      "message": "נסה עכשיו"
+   },
+   "quasar_video_details": {
+      "message": "מתקשר אליך עם Hangout"
+   },
+   "quasar_video_title": {
+      "message": "Hangout מ$1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_voice_details": {
+      "message": "מתקשר אליך"
+   },
+   "quasar_voice_title": {
+      "message": "שיחה קולית מ$1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

@@ -1,0 +1,20 @@
+{
+   "api_console_project_id": "207967787620",
+   "app": {
+      "launch": {
+         "web_url": "https://app.pipedrive.com/auth/chrome_webapp"
+      },
+      "urls": [ "*://app.pipedrive.com/" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "_pipedrive_128x128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDcQnzXIaNoM+8df2p5Kn7JUsXZbDJsPdGkXmt3YTRDhERsxIJinE4i8NMg0hSlj2CDPlPn6fB5mkL7p8zDVM/3U2UGf3lgZffd00jcO7Vc5mbmS8Aom59lnp+I71iVWAIpdH27UwjCKCjWQwuX+7gcApNOYyth1Pult7F/eWyjNwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "short_name": "Pipedrive CRM",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.4.7"
+}

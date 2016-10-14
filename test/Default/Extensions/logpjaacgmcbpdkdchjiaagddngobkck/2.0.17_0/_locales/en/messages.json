@@ -1,0 +1,10 @@
+{
+   "appDescription": {
+      "description": "The description of the application",
+      "message": "Easily customizable custom keyboard shortcuts for Chrome"
+   },
+   "appName": {
+      "description": "The name of the application",
+      "message": "Shortkeys (Custom Keyboard Shortcuts)"
+   }
+}

@@ -1,0 +1,20 @@
+{
+   "content_scripts": [ {
+      "exclude_globs": [  ],
+      "include_globs": [  ],
+      "js": [ "scriptTagContext.js", "rapportive.js" ],
+      "matches": [ "http://mail.google.com/mail*", "https://mail.google.com/mail*", "http://mail.google.com/a/*", "https://mail.google.com/a/*" ]
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval' https://platform.linkedin.com/; frame-src 'self' https://api.linkedin.com; object-src 'self'",
+   "description": "Shows LinkedIn profiles in your Gmail",
+   "icons": {
+      "128": "icon-128x128.png",
+      "48": "icon-48x48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCwnjXPJ/tqtb5j9oj9V2xykqYtXZyc4uRdNqhNb8ApX0wyUXjGc1Mo9Lnz1CMA6Ex9uWIr5BNBzN9LyICpW1ocHt46lSgrb2uy4f6jBxZkx2qB+KlSmQ1SN2E7HXTAcTOEHTqSpDHe1pG8mDiojGXR3Ap780hsx7AM6SBd650xcwIDAQAB",
+   "manifest_version": 2,
+   "name": "Rapportive",
+   "permissions": [ "https://rapportive.com/load/launchpad/*", "https://platform.linkedin.com/*", "https://www.linkedin.com/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.4.3"
+}

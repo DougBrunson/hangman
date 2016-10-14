@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store",
+      "message": "Une GRC des ventes pour les petites équipes à grandes ambitions"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Pipedrive GRC de ventes"
+   }
+}

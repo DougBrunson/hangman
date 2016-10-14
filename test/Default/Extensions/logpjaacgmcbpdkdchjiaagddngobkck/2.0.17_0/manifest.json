@@ -1,0 +1,24 @@
+{
+   "background": {
+      "scripts": [ "scripts/background.js" ]
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "bower_components/mousetrap/mousetrap.min.js", "scripts/contentscript.js" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_appDescription__",
+   "icons": {
+      "128": "images/icon_128.png",
+      "16": "images/icon_16.png",
+      "48": "images/icon_48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC6u4Y4e3JZ0maMQaEPOAxl5B9VzCk3TRAXBVyP+kTdmEAq6edyaq4VYc90uXxeJzZPo2u8q7eZSrcHb3iqn+gEB92hjKacip8dh0LDmbZzVTiEMeYaYjNXHZuYavWZQhUmq27FFJ+J+hK4rGQ1rC6EEXZkILyeCzX2m/48mWrcIwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "options_page": "options.html",
+   "permissions": [ "tabs", "clipboardWrite", "browsingData", "storage", "bookmarks", "\u003Call_urls>" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.17"
+}

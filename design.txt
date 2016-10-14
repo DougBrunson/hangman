@@ -1,0 +1,14 @@
+# Design reflection:
+
+## Issues: 
+	- Modeling data
+		- Read ndb docs to understand use of entities and properties.
+
+	- Datastore queries
+		- Read ndb.query tutorial
+
+## Topics learnt:
+	- datastore/ ndb
+	- resource containers
+	- cron jobs 
+ 

@@ -1,0 +1,21 @@
+{
+   "api_console_project_id": "241271498917",
+   "app": {
+      "launch": {
+         "web_url": "https://stackedit.io/editor"
+      },
+      "urls": [ "https://stackedit.io/" ]
+   },
+   "container": "GOOGLE_DRIVE",
+   "description": "The Markdown editor powered by PageDown",
+   "icons": {
+      "128": "logo-128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDpX6afoXj1+DdBcBOP/IEm50cuxnUnB5WwajODk1vme/QtmdLbgSyymItAoWp5Ad/Mk/swz1Fia/Z3O2ihgp7k/EoKwYY6RVJ1TeWWqlmYSS88a+A3TKaPw97TNDGjjuH7ZgIPaBztFA0CKbhRcLL0R6TuqbgdpSvmjEJhW8501wIDAQAB",
+   "manifest_version": 2,
+   "name": "StackEdit",
+   "offline_enabled": true,
+   "permissions": [ "unlimitedStorage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.9"
+}
